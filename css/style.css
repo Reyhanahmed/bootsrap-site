@@ -3,6 +3,7 @@
 .navbar{
 	background-color: #242424;
 	border-bottom: 1px solid #b9b9b9;
+	font-family: "Lato", sans-serif;
 }
 
 .navbar a{
