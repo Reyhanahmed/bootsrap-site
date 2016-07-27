@@ -1,0 +1,25 @@
+/* NAVIGATION */
+
+.navbar{
+	background-color: #242424;
+	border-bottom: 1px solid #b9b9b9;
+}
+
+.navbar a{
+	color: #cccccc !important;
+}
+
+.navbar a:hover{
+	color: #ffffff !important;
+	background-color: #646464 !important;
+}
+
+.navbar-header .navbar-brand{
+	color: #ffffff !important;
+	font-size: 1.8em;
+}
+
+.navbar-header .navbar-brand:hover{
+	color: #F5A211 !important;
+	background-color: transparent !important;
+}
