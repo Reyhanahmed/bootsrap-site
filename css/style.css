@@ -98,3 +98,22 @@ p, h1{
 .about p{
 	padding-bottom: 25px;
 }
+
+
+/* FEATURES */
+
+.features{
+	background-color: #337ab7;
+	text-align: center;
+	color: #ffffff;
+	padding: 90px 0;  
+}
+
+.features h1{
+	font-size: 200%;
+	padding-bottom: 25px;
+}
+
+.features img{
+	padding: 15px 0 35px;
+}
