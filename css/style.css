@@ -140,3 +140,20 @@ p, h1{
 .press .press-logo li img:hover{
 	opacity: 1;
 }
+
+/* SCREENSHOTS */
+
+.screenshots{
+	background-color: #235178;
+	padding: 90px 0;
+	text-align: center;
+	color: #ffffff;
+}
+
+.screenshots img{
+	padding: 20px 0;
+}
+
+.screenshots h1{
+	font-size: 200%;
+}
