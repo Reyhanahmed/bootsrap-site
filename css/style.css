@@ -1,3 +1,7 @@
+p, h1{
+	font-family: 'Droid Sans', sans-serif;
+}
+
 /* NAVIGATION */
 
 .navbar{
@@ -23,4 +27,57 @@
 .navbar-header .navbar-brand:hover{
 	color: #F5A211 !important;
 	background-color: transparent !important;
+}
+
+
+/* HEADER */
+
+.header{
+	padding: 140px 0 60px 0;
+	background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	border-bottom: 2px solid #c9c9c9;
+}
+
+.header h1{
+	color: #ffffff;
+	font-family: 'Pacifico', cursive;
+	font-size: 750%;
+}
+
+.header p{
+	color: #ffffff;
+	font-size: 130%;
+}
+
+.header .btn{
+	padding: 5px 50px;
+	border-radius: 0;
+}
+
+@media only screen and (max-width: 768px){
+	.header{
+		text-align: center;
+		padding-top: 20%;
+	}
+
+	.header h1{
+		font-size: 500%;
+	}
+
+	.header p{
+		font-size: 100%;
+	}
+
+	.header .btn{
+		padding: 5px 12px;
+		border-radius: 0;
+	}
+
+	.header img{
+		padding-top: 10%;
+	}
 }
