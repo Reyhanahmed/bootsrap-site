@@ -81,3 +81,20 @@ p, h1{
 		padding-top: 10%;
 	}
 }
+
+/* ABOUT */
+
+.about{
+	padding: 100px 0;
+	text-align: center;
+}
+
+.about h1{
+	font-size: 176%;
+	color: #337ab7;
+	padding-bottom: 25px;
+}
+
+.about p{
+	padding-bottom: 25px;
+}
