@@ -157,3 +157,24 @@ p, h1{
 .screenshots h1{
 	font-size: 200%;
 }
+
+/* REVIEWS */
+
+.reviews{
+	padding: 90px 0;
+	text-align: center;
+}
+
+.reviews h1{
+	font-size: 200%;
+	padding-bottom: 25px;
+	color: #337ab7;
+}
+
+.reviews p{
+	padding-bottom: 35px;
+}
+
+.reviews .line2{
+	padding-top: 35px;
+}
