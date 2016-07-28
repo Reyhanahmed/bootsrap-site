@@ -199,3 +199,29 @@ p, h1{
 	border: 0;
 	padding-top: 25px;
 }
+
+
+/* CONTACT */
+
+.contact{
+	padding: 100px 0;
+	text-align: center;
+}
+
+.contact h1{
+	font-size: 200%;
+	padding-bottom: 25px;
+}
+
+.contact .fa {
+	color: #1c3f5c;
+	padding: 20px 10px 40px;
+}
+
+.contact .fa:hover {
+	color: #1D4E76;
+}
+
+.contact li{
+	padding-top: 10px;
+}
