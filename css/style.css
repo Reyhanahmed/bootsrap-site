@@ -29,6 +29,10 @@ p, h1{
 	background-color: transparent !important;
 }
 
+.navbar-default .nav li.active a{
+	color: #1d1d1d !important;
+}
+
 
 /* HEADER */
 
